@@ -1,0 +1,4 @@
+C:\Dev-Hom\API\KeyWorks\obj\Release\net6.0\WebUI.csproj.AssemblyReference.cache
+C:\Dev-Hom\API\KeyWorks\obj\Release\net6.0\WebUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev-Hom\API\KeyWorks\obj\Release\net6.0\WebUI.csproj.CoreCompileInputs.cache
+C:\Dev-Hom\API\KeyWorks\obj\Release\net6.0\WebUI.MvcApplicationPartsAssemblyInfo.cache

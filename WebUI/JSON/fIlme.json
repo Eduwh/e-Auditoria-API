@@ -1,0 +1,47 @@
+[
+  {
+    "titulo": "Filme1",
+    "classificacaoindicativa": 18,
+    "lancamento": 0
+  },
+  {
+    "titulo": "Filme2",
+    "classificacaoindicativa": 18,
+    "lancamento": 0
+  },
+  {
+    "titulo": "Filme3",
+    "classificacaoindicativa": 18,
+    "lancamento": 0
+  },
+  {
+    "titulo": "Filme4",
+    "classificacaoindicativa": 18,
+    "lancamento": 0
+  },
+  {
+    "titulo": "Filme5",
+    "classificacaoindicativa": 18,
+    "lancamento": 0
+  },
+  {
+    "titulo": "Filme6",
+    "classificacaoindicativa": 18,
+    "lancamento": 1
+  },
+  {
+    "titulo": "Filme7",
+    "classificacaoindicativa": 18,
+    "lancamento": 1
+  },
+  {
+    "titulo": "Filme8",
+    "classificacaoindicativa": 18,
+    "lancamento": 1
+  },
+  {
+    "titulo": "Filme9",
+    "classificacaoindicativa": 18,
+    "lancamento": 1
+  }
+]

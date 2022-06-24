@@ -1,0 +1,5 @@
+C:\Dev-Hom\API\Application\obj\Release\net6.0\Application.csproj.AssemblyReference.cache
+C:\Dev-Hom\API\Application\obj\Release\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev-Hom\API\Application\obj\Release\net6.0\Application.AssemblyInfoInputs.cache
+C:\Dev-Hom\API\Application\obj\Release\net6.0\Application.AssemblyInfo.cs
+C:\Dev-Hom\API\Application\obj\Release\net6.0\Application.csproj.CoreCompileInputs.cache

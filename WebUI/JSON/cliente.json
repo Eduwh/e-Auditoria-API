@@ -1,0 +1,56 @@
+[
+  {
+    "nome": "Cliente1",
+    "cpf": "12345678910",
+    "datanascimento": "2022-06-23T00:00:00",
+    "locacoes": null
+  },
+  {
+    "nome": "Cliente2",
+    "cpf": "12345678911",
+    "datanascimento": "2022-06-23T00:00:00",
+    "locacoes": null
+  },
+  {
+    "nome": "Cliente3",
+    "cpf": "12345678912",
+    "datanascimento": "2022-06-23T00:00:00",
+    "locacoes": null
+  },
+  {
+    "nome": "Cliente4",
+    "cpf": "12345678913",
+    "datanascimento": "2022-06-23T00:00:00",
+    "locacoes": null
+  },
+  {
+    "nome": "Cliente5",
+    "cpf": "12345678914",
+    "datanascimento": "2022-06-23T00:00:00",
+    "locacoes": null
+  },
+  {
+    "nome": "Cliente6",
+    "cpf": "12345678915",
+    "datanascimento": "2022-06-23T00:00:00",
+    "locacoes": null
+  },
+  {
+    "nome": "Cliente57",
+    "cpf": "12345678916",
+    "datanascimento": "2022-06-23T00:00:00",
+    "locacoes": null
+  },
+  {
+    "nome": "Cliente8",
+    "cpf": "12345678917",
+    "datanascimento": "2022-06-23T00:00:00",
+    "locacoes": null
+  },
+  {
+    "nome": "Cliente9",
+    "cpf": "12345678918",
+    "datanascimento": "2022-06-23T00:00:00",
+    "locacoes": null
+  }
+]
