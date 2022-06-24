@@ -110,11 +110,6 @@ C:\Dev-Hom\API\KeyWorks\obj\Debug\net6.0\WebUI.genruntimeconfig.cache
 C:\Dev-Hom\API\KeyWorks\obj\Debug\net6.0\ref\WebUI.dll
 C:\Dev-Hom\e-Auditoria API\WebUI\bin\Debug\net6.0\appsettings.Development.json
 C:\Dev-Hom\e-Auditoria API\WebUI\bin\Debug\net6.0\appsettings.json
-C:\Dev-Hom\e-Auditoria API\WebUI\bin\Debug\net6.0\KeyWorks.test\bin\Debug\netcoreapp3.1\KeyWorks.test.deps.json
-C:\Dev-Hom\e-Auditoria API\WebUI\bin\Debug\net6.0\KeyWorks.test\bin\Debug\netcoreapp3.1\KeyWorks.test.runtimeconfig.dev.json
-C:\Dev-Hom\e-Auditoria API\WebUI\bin\Debug\net6.0\KeyWorks.test\bin\Debug\netcoreapp3.1\KeyWorks.test.runtimeconfig.json
-C:\Dev-Hom\e-Auditoria API\WebUI\bin\Debug\net6.0\KeyWorks.test\obj\KeyWorks.test.csproj.nuget.dgspec.json
-C:\Dev-Hom\e-Auditoria API\WebUI\bin\Debug\net6.0\KeyWorks.test\obj\project.assets.json
 C:\Dev-Hom\e-Auditoria API\WebUI\bin\Debug\net6.0\WebUI.exe
 C:\Dev-Hom\e-Auditoria API\WebUI\bin\Debug\net6.0\WebUI.deps.json
 C:\Dev-Hom\e-Auditoria API\WebUI\bin\Debug\net6.0\WebUI.runtimeconfig.json
