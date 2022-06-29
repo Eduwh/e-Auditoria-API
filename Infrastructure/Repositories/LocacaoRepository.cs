@@ -28,7 +28,7 @@ namespace eAuditoria.Infrastructure.Repositories
 
         public Task<List<Locacao>> GetAllAsync()
         {
-            return _context.Locacoes.ToListAsync();
+            return _context.Locacoes.Include( locacao => locacao.Cliente ).Include( locacao => locacao.Filme ).ToListAsync();
         }
 
         public Task<Locacao> GetByIdAsync(int locacaoId)
@@ -76,12 +76,12 @@ namespace eAuditoria.Infrastructure.Repositories
 
         public Task<Cliente> GetSegundoMelhorCliente()
         {
-            var bottom3FilmesSemana = _context.Clientes
+            var segundoMelhorCLiente = _context.Clientes
                 .OrderBy(cliente => cliente.Locacoes.Count)
                 .Skip(1)
                 .FirstOrDefaultAsync();
 
-            return bottom3FilmesSemana;
+            return segundoMelhorCLiente;
         }
     }
 }

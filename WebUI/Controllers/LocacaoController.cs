@@ -27,8 +27,9 @@ namespace eAuditoria.WebUI.Controllers
         {
             try
             {
-                var locacao = await _locacaoService.GetAllAsync();
-                return Ok(new ResultViewModel<List<Locacao>>(locacao));
+                var locacoes = await _locacaoService.GetAllAsync();
+                
+                return Ok(new ResultViewModel<List<Locacao>>(locacoes));
             }
             catch
             {
